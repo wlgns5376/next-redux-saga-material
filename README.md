@@ -1,13 +1,13 @@
 # next-redux-saga-material
 This is a sample application using Next, Redux-saga, and Material-UI.
 
-- Next
-- Next Routes
-- Redux
-- Redux Saga
-- Material-UI
-- React
-- Express
+- [Next](https://github.com/zeit/next.js)
+- [Next Routes](https://github.com/fridays/next-routes)
+- [Redux](https://redux.js.org/)
+- [Redux Saga](https://redux-saga.js.org/)
+- [Material-UI](https://material-ui.com/)
+- [React](https://reactjs.org/)
+- [Express](https://expressjs.com/)
 
 ## Getting started
 
